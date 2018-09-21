@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void cargar (int )
+void cargar (int x)
 {
     cout<<"Ingrese un conjunto: ";
     cin >> ;
